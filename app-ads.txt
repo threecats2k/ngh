@@ -3354,3 +3354,16 @@ zetaglobal.net, 856, RESELLER
 zmaticoo.com, 5135199, RESELLER
 zmaticoo.com, 5135375, RESELLER
 zmaticoo.com, 5135535, RESELLER
+#update 14/10/2026
+chocolateplatform.com, 23085, RESELLER, 49a66ce31a704197
+chocolateplatform.com, 23085, DIRECT, 49a66ce31a704197
+improvedigital.com, 2919, RESELLER
+betweendigital.com, 44977, DIRECT
+sharethrough.com, 4395, RESELLER, d53b998a7bd4ecd2
+eskimi.com, 2020001193, RESELLER
+richaudience.com, MhQRvL255v, RESELLER
+rubiconproject.com, 13510, RESELLER
+appnexus.com, 8233, RESELLER
+pubmatic.com, 81564, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156538, RESELLER, 5d62403b186f2ace
+lijit.com, 550620-eb, DIRECT, fafdf38b16bf6b2b
